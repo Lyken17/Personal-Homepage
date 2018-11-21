@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Ligeng Zhu&#39;s Homepage</title>
+    <link>/publication_types/3/</link>
+    <description>Recent content in 3 on Ligeng Zhu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 10 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Platform-Aware Neural Network Specialization with Proxy-less Architecture Search</title>
+      <link>/publication/2018-proxyless-workshop/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-proxyless-workshop/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Proxy-less Architecture Search via Binarized Path Learning</title>
+      <link>/publication/2019-proxyless-iclr/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-proxyless-iclr/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Small Object Sensitive Segmentation of Urban Street Scene with Consistent Spatial Adjacency Between Object Classes</title>
+      <link>/publication/2018-spatial-encoder/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-spatial-encoder/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Does Colour Really Matter? Evaluation via Object Classification</title>
+      <link>/publication/2018-aic/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-aic/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title> Learning to Forecast Videos of Human Activity with Multi-granularity Models and Adaptive Rendering</title>
+      <link>/publication/2018-video-gan/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-video-gan/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
