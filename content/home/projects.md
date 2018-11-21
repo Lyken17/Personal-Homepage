@@ -48,9 +48,9 @@ filter_default = 0
   name = "Toolbox"
   tag = "Toolbox"
 #
-[[filter]]
-  name = "Other"
-  tag = "Demo"
+# [[filter]]
+#   name = "Other"
+#   tag = "Demo"
 
 +++
 
