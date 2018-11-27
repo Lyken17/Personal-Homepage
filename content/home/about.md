@@ -17,6 +17,10 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Visiting student at EECS"
+  institution = "Massachusetts Institute of Techonology"
+  
+[[education.courses]]
   course = "B.Sc in Computing Science"
   institution = "Simon Fraser University"
   # year = 2015

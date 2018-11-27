@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Platform-Aware Neural Network Specialization with Proxy-less Architecture Search</title>
-      <link>/publication/2018-proxyless-workshop/</link>
-      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2018-proxyless-workshop/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
       <title>Proxy-less Architecture Search via Binarized Path Learning</title>
       <link>/publication/2019-proxyless-iclr/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>

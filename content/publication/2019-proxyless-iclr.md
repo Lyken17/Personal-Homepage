@@ -39,7 +39,7 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-# url_pdf = "https://arxiv.org/abs/1712.01955"
+url_pdf = "https://openreview.net/forum?id=HylVB3AqYm"
 # url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 # url_code = "https://github.com/Lyken17/Colorize-Color-Images"
 # url_dataset = "#"
@@ -52,7 +52,7 @@ selected = true
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-# url_custom = [{name = "PDF Coming Soon", url = ""}]
+url_custom = [{name = "Code coming soon", url = ""}]
 # Does the content use math formatting?
 math = true
 
