@@ -52,7 +52,7 @@ url_pdf = "https://openreview.net/forum?id=HylVB3AqYm"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "Code coming soon", url = ""}]
+url_custom = [{name = "Github", url = "https://github.com/MIT-HAN-LAB/ProxylessNAS"}]
 # Does the content use math formatting?
 math = true
 
