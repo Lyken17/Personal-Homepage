@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ligeng Zhu&#39;s Homepage on Ligeng Zhu&#39;s Homepage</title>
-    <link>/</link>
+    <link>https://lzhu.me/</link>
     <description>Recent content in Ligeng Zhu&#39;s Homepage on Ligeng Zhu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,60 +12,60 @@
     
     <item>
       <title>ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware</title>
-      <link>/publication/2019-proxyless-iclr/</link>
+      <link>https://lzhu.me/publication/2019-proxyless-iclr/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2019-proxyless-iclr/</guid>
+      <guid>https://lzhu.me/publication/2019-proxyless-iclr/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Small Object Sensitive Segmentation of Urban Street Scene with Consistent Spatial Adjacency Between Object Classes</title>
-      <link>/publication/2018-spatial-encoder/</link>
+      <link>https://lzhu.me/publication/2018-spatial-encoder/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-spatial-encoder/</guid>
+      <guid>https://lzhu.me/publication/2018-spatial-encoder/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Does Colour Really Matter? Evaluation via Object Classification</title>
-      <link>/publication/2018-aic/</link>
+      <link>https://lzhu.me/publication/2018-aic/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-aic/</guid>
+      <guid>https://lzhu.me/publication/2018-aic/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sparsely Aggregated Convolutional Networks</title>
-      <link>/publication/2018-sparsenet/</link>
+      <link>https://lzhu.me/publication/2018-sparsenet/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-sparsenet/</guid>
+      <guid>https://lzhu.me/publication/2018-sparsenet/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title> Learning to Forecast Videos of Human Activity with Multi-granularity Models and Adaptive Rendering</title>
-      <link>/publication/2018-video-gan/</link>
+      <link>https://lzhu.me/publication/2018-video-gan/</link>
       <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-video-gan/</guid>
+      <guid>https://lzhu.me/publication/2018-video-gan/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>THOP</title>
-      <link>/project/2018-thop/</link>
+      <link>https://lzhu.me/project/2018-thop/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/2018-thop/</guid>
+      <guid>https://lzhu.me/project/2018-thop/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -80,20 +80,20 @@
     
     <item>
       <title>Colorizing Color Images</title>
-      <link>/publication/2018-colorize-color-images/</link>
+      <link>https://lzhu.me/publication/2018-colorize-color-images/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-colorize-color-images/</guid>
+      <guid>https://lzhu.me/publication/2018-colorize-color-images/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MXBox</title>
-      <link>/project/2017-mxbox/</link>
+      <link>https://lzhu.me/project/2017-mxbox/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/2017-mxbox/</guid>
+      <guid>https://lzhu.me/project/2017-mxbox/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -108,10 +108,10 @@
     
     <item>
       <title>Neural Machine Translation</title>
-      <link>/project/2016-seq2seq/</link>
+      <link>https://lzhu.me/project/2016-seq2seq/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/2016-seq2seq/</guid>
+      <guid>https://lzhu.me/project/2016-seq2seq/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -126,59 +126,59 @@
     
     <item>
       <title>Deep Learning Tutorial for Beginners</title>
-      <link>/talk/2018-neural-style/</link>
+      <link>https://lzhu.me/talk/2018-neural-style/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/2018-neural-style/</guid>
+      <guid>https://lzhu.me/talk/2018-neural-style/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Neural Style Transform Explained</title>
-      <link>/talk/2018-neural-style-2/</link>
+      <link>https://lzhu.me/talk/2018-neural-style-2/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/2018-neural-style-2/</guid>
+      <guid>https://lzhu.me/talk/2018-neural-style-2/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sparsely Aggregated Convolution Networks</title>
-      <link>/talk/2018-ubc-sfu-vision-day/</link>
+      <link>https://lzhu.me/talk/2018-ubc-sfu-vision-day/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/2018-ubc-sfu-vision-day/</guid>
+      <guid>https://lzhu.me/talk/2018-ubc-sfu-vision-day/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Machine Learning for Image Colorization</title>
-      <link>/project/2016-colorization/</link>
+      <link>https://lzhu.me/project/2016-colorization/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/2016-colorization/</guid>
+      <guid>https://lzhu.me/project/2016-colorization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attribute Recognition from Adaptive Parts</title>
-      <link>/publication/2016-bmvc/</link>
+      <link>https://lzhu.me/publication/2016-bmvc/</link>
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2016-bmvc/</guid>
+      <guid>https://lzhu.me/publication/2016-bmvc/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fast and Coherent Neural Style Transform for Videos</title>
-      <link>/project/2016-neural-style/</link>
+      <link>https://lzhu.me/project/2016-neural-style/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/2016-neural-style/</guid>
+      <guid>https://lzhu.me/project/2016-neural-style/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;

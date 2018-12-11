@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Ligeng Zhu&#39;s Homepage</title>
-    <link>/publication_types/1/</link>
+    <link>https://lzhu.me/publication_types/1/</link>
     <description>Recent content in 1 on Ligeng Zhu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lzhu.me/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sparsely Aggregated Convolutional Networks</title>
-      <link>/publication/2018-sparsenet/</link>
+      <link>https://lzhu.me/publication/2018-sparsenet/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-sparsenet/</guid>
+      <guid>https://lzhu.me/publication/2018-sparsenet/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Colorizing Color Images</title>
-      <link>/publication/2018-colorize-color-images/</link>
+      <link>https://lzhu.me/publication/2018-colorize-color-images/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-colorize-color-images/</guid>
+      <guid>https://lzhu.me/publication/2018-colorize-color-images/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Attribute Recognition from Adaptive Parts</title>
-      <link>/publication/2016-bmvc/</link>
+      <link>https://lzhu.me/publication/2016-bmvc/</link>
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2016-bmvc/</guid>
+      <guid>https://lzhu.me/publication/2016-bmvc/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

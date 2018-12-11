@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Ligeng Zhu&#39;s Homepage</title>
-    <link>/talk/</link>
+    <link>https://lzhu.me/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Ligeng Zhu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lzhu.me/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning Tutorial for Beginners</title>
-      <link>/talk/2018-neural-style/</link>
+      <link>https://lzhu.me/talk/2018-neural-style/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/2018-neural-style/</guid>
+      <guid>https://lzhu.me/talk/2018-neural-style/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Neural Style Transform Explained</title>
-      <link>/talk/2018-neural-style-2/</link>
+      <link>https://lzhu.me/talk/2018-neural-style-2/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/2018-neural-style-2/</guid>
+      <guid>https://lzhu.me/talk/2018-neural-style-2/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Sparsely Aggregated Convolution Networks</title>
-      <link>/talk/2018-ubc-sfu-vision-day/</link>
+      <link>https://lzhu.me/talk/2018-ubc-sfu-vision-day/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/talk/2018-ubc-sfu-vision-day/</guid>
+      <guid>https://lzhu.me/talk/2018-ubc-sfu-vision-day/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Deep Learning Tutorial for Computer Visioners</title>
-      <link>/talk/2017-deep-live/</link>
+      <link>https://lzhu.me/talk/2017-deep-live/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
-      <guid>/talk/2017-deep-live/</guid>
+      <guid>https://lzhu.me/talk/2017-deep-live/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

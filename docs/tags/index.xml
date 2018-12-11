@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ligeng Zhu&#39;s Homepage</title>
-    <link>/tags/</link>
+    <link>https://lzhu.me/tags/</link>
     <description>Recent content in Tags on Ligeng Zhu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lzhu.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Color Vision</title>
-      <link>/tags/color-vision/</link>
+      <link>https://lzhu.me/tags/color-vision/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/color-vision/</guid>
+      <guid>https://lzhu.me/tags/color-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>https://lzhu.me/tags/deep-learning/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>https://lzhu.me/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP</title>
-      <link>/tags/nlp/</link>
+      <link>https://lzhu.me/tags/nlp/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/nlp/</guid>
+      <guid>https://lzhu.me/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toolbox</title>
-      <link>/tags/toolbox/</link>
+      <link>https://lzhu.me/tags/toolbox/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/toolbox/</guid>
+      <guid>https://lzhu.me/tags/toolbox/</guid>
       <description></description>
     </item>
     

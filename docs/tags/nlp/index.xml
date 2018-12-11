@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLP on Ligeng Zhu&#39;s Homepage</title>
-    <link>/tags/nlp/</link>
+    <link>https://lzhu.me/tags/nlp/</link>
     <description>Recent content in NLP on Ligeng Zhu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 03 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lzhu.me/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neural Machine Translation</title>
-      <link>/project/2016-seq2seq/</link>
+      <link>https://lzhu.me/project/2016-seq2seq/</link>
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/project/2016-seq2seq/</guid>
+      <guid>https://lzhu.me/project/2016-seq2seq/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
