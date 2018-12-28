@@ -1,5 +1,5 @@
 +++
-title = "Small Object Sensitive Segmentation of Urban Street Scene with Consistent Spatial Adjacency Between Object Classes"
+title = "Small Object Sensitive Segmentation of Urban Street Scene with Spatial Adjacency Between Object Classes."
 date = "2018-10-01"
 
 
