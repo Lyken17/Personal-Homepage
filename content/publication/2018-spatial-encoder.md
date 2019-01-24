@@ -47,7 +47,7 @@ selected = true
 # url_video = "#"
 # url_poster = "#"
 # url_source = "#"
-url_custom = [{name = "PDF Coming Soon", url = ""}]
+url_custom = [{name = "PDF", url = "https://ieeexplore.ieee.org/document/8581453"}]
 
 # Custom links (optional).
 # Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

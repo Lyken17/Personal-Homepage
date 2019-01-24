@@ -4,18 +4,21 @@
   <a  itemprop="name">{{ .Title }}. </a>
   <br>
   {{ if .Params.publication_short }}
-    {{- .Params.publication_short | markdownify -}}
+    {{- .Params.publication_short | markdownify -}}.
     <!-- , -->
   {{ else if .Params.publication }}
     {{- .Params.publication | markdownify -}}
     <!-- , -->
   {{ end }}
+  &nbsp
   <!-- {{- .Date.Format "2006" -}}. -->
+  {{ partial "page_links" (dict "content" . "is_list" 1) }}
   <br>
+
   <span itemprop="author">
     {{ with .Params.authors }}
       {{- delimit . ", " | markdownify -}}
     {{- end -}}
   </span>.
-  <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p>
+  <!-- <p>{{ partial "page_links" (dict "content" . "is_list" 1) }}</p> -->
 </div>

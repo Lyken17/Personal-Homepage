@@ -39,7 +39,7 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://openreview.net/forum?id=HylVB3AqYm"
+url_pdf = "https://arxiv.org/abs/1812.00332"
 # url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 # url_code = "https://github.com/Lyken17/Colorize-Color-Images"
 # url_dataset = "#"
