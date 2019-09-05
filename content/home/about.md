@@ -38,4 +38,4 @@ weight = 5
  
  My research interests mainly focus on machine learning and computer vision. Now I am working with [Prof. Song Han](https://songhan.mit.edu/) on effcient machine learning. Prior to this, I have worked with [Prof. Brian Funt](http://www.cs.sfu.ca/~funt/) on colour vision, and [Prof. Ping Tan](https://www.cs.sfu.ca/~pingtan/) on attribute recognition and 3d visions.
 
-Currently I am applying for Ph.D,  and also actively looking for internship position for 2019. If you are looking for someone who is familiar with deep learning, good at programming and has solid math backgrounds, I think I should be a good candidate. Have look at my [resume](Resume_Ligeng_Zhu_EN.pdf) ?
+<!-- Currently I am applying for Ph.D,  and also actively looking for internship position for 2019. If you are looking for someone who is familiar with deep learning, good at programming and has solid math backgrounds, I think I should be a good candidate. Have look at my [resume](Resume_Ligeng_Zhu_EN.pdf) ? -->

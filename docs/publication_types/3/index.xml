@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lzhu.me/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Leakage from Gradients</title>
+      <link>https://lzhu.me/publication/2019-nips-dlg/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lzhu.me/publication/2019-nips-dlg/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
     
     <item>
       <title>ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware</title>
