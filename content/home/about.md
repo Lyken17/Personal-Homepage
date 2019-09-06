@@ -34,7 +34,7 @@ weight = 5
 
 # Biography
 
- I was a visiting student of [Prof. Song Han](https://songhan.mit.edu/)'s group at MIT and will soon join [Intel](http://intel.com). Before coming to Boston, I have lived in beautiful Vancouver and Hangzhou, where I am a member of Dual Degree Program between Zhejiang University and Simon Fraser University. 
+ I was a visiting student of [Prof. Song Han](https://songhan.mit.edu/)'s group at MIT and will soon join [Intel](http://intel.com). Before coming to Boston, I have lived in beautiful Vancouver and Hangzhou, where I was a member of Dual Degree Program between Zhejiang University and Simon Fraser University. 
  
  My research interests mainly focus on machine learning and computer vision. Now I am working with [Prof. Song Han](https://songhan.mit.edu/) on effcient machine learning. Prior to this, I have worked with [Prof. Brian Funt](http://www.cs.sfu.ca/~funt/) on colour vision, and [Prof. Ping Tan](https://www.cs.sfu.ca/~pingtan/) on attribute recognition and 3d visions.
 
