@@ -140,6 +140,16 @@
     {{ range .Site.Params.custom_js }}
     <script src="{{ "/js/" | relURL }}{{ . }}"></script>
     {{ end }}
+       
+    <script language="JavaScript">
+      // force enable https when visiting from outside.
+      var loc = window.location.href+'';
+      if (!(location.hostname === "localhost" || location.hostname === "127.0.0.1")) {
+        if (loc.indexOf('http://')==0 && loc.indexOf('127.0.0.1')!=0){
+          window.location.href = loc.replace('http://','https://');
+        }
+      }
+    </script>
 
   </body>
 </html>
