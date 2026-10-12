@@ -1,9 +1,8 @@
 import { createSSRApp } from 'vue'
 import { renderToString } from '@vue/server-renderer'
-import App from './App.vue'
-import FullPublications from './FullPublications.vue'
+import pages from './pages.js'
 
 export function render(page = 'home') {
-  const Page = page === 'full-publications' ? FullPublications : App
+  const Page = pages[page] ?? pages.home
   return renderToString(createSSRApp(Page))
 }

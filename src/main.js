@@ -1,9 +1,8 @@
 import { createApp, createSSRApp } from 'vue'
-import App from './App.vue'
-import FullPublications from './FullPublications.vue'
+import pages from './pages.js'
 import './styles.css'
 
 const container = document.getElementById('app')
 const create = container.hasChildNodes() ? createSSRApp : createApp
-const Page = container.dataset.page === 'full-publications' ? FullPublications : App
+const Page = pages[container.dataset.page] ?? pages.home
 create(Page).mount(container)

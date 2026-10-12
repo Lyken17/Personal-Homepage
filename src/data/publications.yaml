@@ -381,7 +381,7 @@
   media: []
 
 - id: publication-12
-  tag: []
+  tag: [selected]
   title: On-Device Training Under 256KB Memory
   href: https://proceedings.neurips.cc/paper_files/paper/2022/hash/90c56c77c6df45fc8e556a096b7a2b2e-Abstract-Conference.html
   authors:
@@ -563,7 +563,7 @@
   media: []
 
 - id: publication-20
-  tag: []
+  tag: [selected]
   title: Deep Leakage from Gradients
   href: https://proceedings.neurips.cc/paper_files/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html
   authors:
@@ -606,7 +606,7 @@
   media: []
 
 - id: publication-22
-  tag: []
+  tag: [selected]
   title: "ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware"
   href: https://arxiv.org/abs/1812.00332
   authors:

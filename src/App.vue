@@ -5,10 +5,13 @@ import RichText from './components/RichText.vue'
 import ResourceLinks from './components/ResourceLinks.vue'
 import PublicationItem from './components/PublicationItem.vue'
 import ProjectCard from './components/ProjectCard.vue'
+import NewsList from './components/NewsList.vue'
 import site from './data/site.json'
+import news from './data/news.js'
 import publications from './data/publications.yaml'
 
 const selectedPublications = publications.filter(publication => publication.tag.includes('selected'))
+const latestNews = news.slice(0, 8)
 
 const updatedLabel = new Intl.DateTimeFormat('en-US', {
   month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC',
@@ -44,19 +47,21 @@ onMounted(async () => {
         <p class="email-note">{{ site.profile.emailNote }}</p>
       </div>
       <div class="hero-copy">
-        <p v-for="(paragraph, index) in site.profile.biography" :key="index"><RichText :content="paragraph" /></p>
+        <template v-for="(paragraph, index) in site.profile.biography" :key="index">
+          <p><RichText :content="paragraph" /></p>
+          <p v-if="index === 1 && site.profile.mission" class="mission-line"><strong>{{ site.profile.mission }}</strong></p>
+        </template>
         <ResourceLinks :links="site.profile.links" />
-        <p class="updated">Latest update on <time :datetime="site.profile.updated">{{ updatedLabel }}</time>.</p>
+        <p class="updated">Latest update on <time :datetime="site.profile.updated">{{ updatedLabel }}</time><template v-if="site.profile.updateNote"> | {{ site.profile.updateNote }}</template><template v-else>.</template></p>
       </div>
     </section>
 
     <section id="news" class="content-section" aria-labelledby="news-title">
-      <h2 id="news-title">News</h2>
-      <ul class="news-list">
-        <li v-for="(item, index) in site.news" :key="index">
-          <time class="news-date" :datetime="item.date">[{{ item.date }}]</time>{{ ' ' }}<RichText :content="item.content" />
-        </li>
-      </ul>
+      <div class="section-heading">
+        <h2 id="news-title">News</h2>
+        <a href="full-news.html">Full News <span aria-hidden="true">→</span></a>
+      </div>
+      <NewsList :news="latestNews" />
     </section>
 
     <section id="publications" class="content-section" aria-labelledby="publications-title">
@@ -73,7 +78,8 @@ onMounted(async () => {
       <h2 id="collaborators-title">Students Collaborated with</h2>
       <ul class="collaborator-list">
         <li v-for="person in site.collaborators" :key="person.name">
-          <a :href="person.href">{{ person.name }}</a>
+          <a v-if="person.href" :href="person.href">{{ person.name }}</a>
+          <strong v-else>{{ person.name }}</strong>
           <span>{{ person.description }}</span>
         </li>
       </ul>
@@ -83,7 +89,7 @@ onMounted(async () => {
       <h2 id="talks-title">Talks &amp; Presentations</h2>
       <ul class="talk-list">
         <li v-for="(talk, index) in site.talks" :key="index">
-          <span class="talk-date">{{ talk.date }}</span>
+          <time class="talk-date" :datetime="talk.date">{{ talk.date }}</time>
           <p><RichText :content="talk.content" /></p>
         </li>
       </ul>

@@ -1,0 +1,237 @@
+# All news is managed here. Dates use YYYY-MM; entries in the same month retain this order.
+# The homepage shows the newest 8 entries. Full News shows every entry.
+# Use type: strong for achievements, or bold: true on a link token.
+
+- date: 2026-10
+  dateBasis: News date and description supplied by the user on 2026-10-12.
+  dateSource: https://x.com/LigengZhu/status/2108761209440989256
+  content:
+    - type: strong
+      text: Completed full Lean formalization
+    - type: text
+      text: " of the Hamilton–Perelman proof of Thurston’s Geometrization conjecture (beyond Poincaré) with the Humanfia team and collaborators ("
+    - type: link
+      text: Geometry library
+      href: https://t.co/Uf9nkj7FSJ
+    - type: text
+      text: ", "
+    - type: link
+      text: Humanize
+      href: https://t.co/rTfrdGIDB6
+    - type: text
+      text: ", "
+    - type: link
+      text: Post
+      href: https://x.com/LigengZhu/status/2108761209440989256
+    - type: text
+      text: ).
+
+- date: 2026-10
+  dateBasis: News date and description supplied by the user on 2026-10-12.
+  dateSource: https://x.com/LigengZhu/status/2106827303296909661
+  content:
+    - type: text
+      text: "Regained "
+    - type: strong
+      text: first place
+    - type: text
+      text: " on the LeanEval leaderboard with updated Humanize workflows after ICLR ("
+    - type: link
+      text: Leaderboard
+      href: https://lean-lang.org/eval/legacy/
+    - type: text
+      text: ", "
+    - type: link
+      text: Post
+      href: https://x.com/LigengZhu/status/2106827303296909661
+    - type: text
+      text: ).
+
+- date: 2026-09
+  dateBasis: News date and description supplied by the user on 2026-10-12.
+  dateSource: https://x.com/LigengZhu/status/2104607532358697003
+  content:
+    - type: text
+      text: "KDA optimized Kimi Delta Attention kernels up to "
+    - type: strong
+      text: 2.96×
+    - type: text
+      text: " over FlashKDA (with Humanize2 / Flame Chase); also helped Databricks reach "
+    - type: strong
+      text: "#1"
+    - type: text
+      text: " across SolExecBench tracks in about one week ("
+    - type: link
+      text: Details
+      href: https://x.com/LigengZhu/status/2104607532358697003
+    - type: text
+      text: ", "
+    - type: link
+      text: KDA
+      href: https://nvlabs.github.io/kda
+    - type: text
+      text: ).
+
+- date: 2026-08
+  dateBasis: News date and description supplied by the user on 2026-10-12.
+  dateSource: https://trishullab.github.io/PutnamBench/leaderboard.html
+  content:
+    - type: text
+      text: "Reached "
+    - type: strong
+      text: 100% (672/672)
+    - type: text
+      text: " on "
+    - type: link
+      text: PutnamBench
+      href: https://trishullab.github.io/PutnamBench/leaderboard.html
+    - type: text
+      text: " and took "
+    - type: strong
+      text: "#1"
+    - type: text
+      text: " on "
+    - type: link
+      text: LeanEval
+      href: https://lean-lang.org/eval/legacy/
+    - type: text
+      text: " using "
+    - type: link
+      text: Humanize2
+      href: https://humanfia.ai/
+    - type: text
+      text: .
+
+- date: 2026-07
+  dateBasis: News date and description supplied by the user on 2026-10-12.
+  dateSource: https://x.com/LigengZhu/status/2081387264769507440
+  content:
+    - type: text
+      text: "Powered by Humanize + Kimi-K3, achieved a "
+    - type: strong
+      text: perfect score (6/6, 42/42)
+    - type: text
+      text: " on IMO 2026 Lean formal proofs in one run at lower cost than GPT-5.6 ("
+    - type: link
+      text: Results
+      href: https://github.com/humanfia/imo2026
+    - type: text
+      text: ", "
+    - type: link
+      text: Post
+      href: https://x.com/LigengZhu/status/2081387264769507440
+    - type: text
+      text: ).
+
+- date: 2026-06
+  dateBasis: Event month confirmed by the user on 2026-10-12.
+  content:
+    - type: text
+      text: "Presented about token maxing with Humanize at NVIDIA, "
+    - type: strong
+      text: invited by SGLang
+    - type: text
+      text: " ("
+    - type: link
+      text: Slides
+      href: https://lzhu.me/assets/slides/202606-advancing-agent-loops-with-humanize.pdf
+    - type: text
+      text: ", "
+    - type: link
+      text: Talks
+      href: https://www.youtube.com/watch?v=NS9N4ZHtAJU&t=2s
+    - type: text
+      text: ).
+
+- date: 2026-05
+  dateBasis: News date and description supplied by the user on 2026-10-12.
+  dateSource: https://x.com/LigengZhu/status/2058271560004501656
+  content:
+    - type: text
+      text: "KDA (Kernel Design Agents) powered HAN Lab Kernel Mafia to "
+    - type: strong
+      text: "#1–#3 rankings"
+    - type: text
+      text: " (MoE, DSA, GDN) in the Pure Agent track of the MLSys FlashInfer Kernel Contest, with minimal prior CUDA experience ("
+    - type: link
+      text: Post
+      href: https://x.com/LigengZhu/status/2058271560004501656
+    - type: text
+      text: ", "
+    - type: link
+      text: KDA
+      href: https://github.com/NVlabs/kda
+    - type: text
+      text: ).
+
+- date: 2023-11
+  dateBasis: MIT News article published on 2023-11-16.
+  dateSource: https://news.mit.edu/2023/technique-enables-ai-edge-devices-keep-learning-over-time
+  content:
+    - type: text
+      text: "Our "
+    - type: link
+      text: PockEngine
+      href: https://pockengine.mit.edu/
+    - type: text
+      text: " is repoted by "
+    - type: link
+      text: MIT News
+      href: https://news.mit.edu/2023/technique-enables-ai-edge-devices-keep-learning-over-time
+      bold: true
+    - type: text
+      text: "!"
+
+- date: 2022-12
+  dateBasis: Website posting month; the presentation month is not recorded.
+  dateSource: https://github.com/lyken17/personal-homepage/commit/ff553394b4c4235694df749fb0080b26f37f8f6a
+  content:
+    - type: text
+      text: Share our recent tiny training work at Westlake university (
+    - type: link
+      text: Slides
+      href: assets/slides/tiny_training.pdf
+    - type: text
+      text: ).
+
+- date: 2022-11
+  dateBasis: Website posting month; the award notification month is not recorded.
+  dateSource: https://github.com/lyken17/personal-homepage/commit/ddb3cb9
+  content:
+    - type: text
+      text: "Awarded for "
+    - type: link
+      text: Qualcomm PhD fellowship
+      href: https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america
+      bold: true
+    - type: text
+      text: "! Thanks my supervisor and collaboraters!"
+
+- date: 2022-10
+  dateBasis: MIT homepage spotlight dated 2022-10-04.
+  dateSource: https://web.mit.edu/spotlight/learning-edge/
+  content:
+    - type: text
+      text: "Our paper on tiny on-device training is highlighted on the "
+    - type: link
+      text: MIT homepage
+      href: http://web.mit.edu/spotlight/learning-edge/
+      bold: true
+    - type: text
+      text: "!"
+
+- date: 2022-09
+  dateBasis: Month of the NeurIPS 2022 author acceptance notifications (2022-09-14).
+  dateSource: https://nips.cc/Conferences/2022/CallForPapers
+  content:
+    - type: text
+      text: "Check our "
+    - type: link
+      text: tiny on-device training
+      href: https://tinytraining.mit.edu/
+    - type: text
+      text: " is "
+    - type: strong
+      text: accepted to NeurIPS 2022
+    - type: text
+      text: "!"

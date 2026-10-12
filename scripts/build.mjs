@@ -26,6 +26,7 @@ try {
   for (const [filename, pageName] of [
     ['index.html', 'home'],
     ['full-publications.html', 'full-publications'],
+    ['full-news.html', 'full-news'],
   ]) {
     const markup = await render(pageName)
     const pagePath = new URL(`../docs/${filename}`, import.meta.url)

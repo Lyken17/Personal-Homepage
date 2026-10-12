@@ -17,10 +17,10 @@ defineProps({ publication: { type: Object, required: true } })
     <p v-for="note in publication.notes" :key="note" class="publication-note">{{ note }}</p>
     <p class="venue"><em>{{ publication.venue }}</em><template v-if="publication.year">, {{ publication.year }}</template></p>
     <p v-if="publication.earlierTitle" class="publication-note">Earlier title: {{ publication.earlierTitle }}.</p>
-    <ResourceLinks :links="publication.links" :context="publication.title" />
+    <ResourceLinks :links="publication.links" :context="publication.title" separated />
     <div v-if="publication.media.length" class="media-coverage">
       <span>Media coverage:</span>
-      <ResourceLinks :links="publication.media" :context="publication.title" />
+      <ResourceLinks :links="publication.media" :context="publication.title" separated />
     </div>
   </div>
 </template>

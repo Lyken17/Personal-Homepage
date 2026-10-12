@@ -25,7 +25,7 @@ function dismissMenu() {
 <template>
   <header class="site-header" @keydown.esc="dismissMenu">
     <nav class="container header-inner" aria-label="Main navigation">
-      <a class="wordmark" :href="`${homeHref}#about`" @click="menuOpen = false">Ad Mare Astrorum</a>
+      <a class="wordmark" :href="`${homeHref}#about`" @click="menuOpen = false">Ad Astra Abyss</a>
       <button
         ref="menuButton"
         class="menu-toggle"

@@ -3,8 +3,10 @@ import assert from 'node:assert/strict'
 import { access, readFile } from 'node:fs/promises'
 import site from '../src/data/site.json' with { type: 'json' }
 import { parsePublicationsYaml } from '../scripts/publications-data.mjs'
+import { parseNewsYaml } from '../scripts/news-data.mjs'
 
 const publications = parsePublicationsYaml(await readFile(new URL('../src/data/publications.yaml', import.meta.url), 'utf8'))
+const news = parseNewsYaml(await readFile(new URL('../src/data/news.yaml', import.meta.url), 'utf8'))
 
 function* collectLinks(value) {
   if (Array.isArray(value)) {
@@ -39,7 +41,7 @@ test('publications follow the authorship rule or explicitly requested exceptions
 })
 
 test('content links use valid destinations and local downloads exist', async () => {
-  for (const href of new Set(collectLinks({ site, publications }))) {
+  for (const href of new Set(collectLinks({ site, publications, news }))) {
     const url = new URL(href, 'https://lzhu.me/')
     assert.ok(['https:', 'http:', 'mailto:'].includes(url.protocol), href)
     if (href.startsWith('assets/')) {
