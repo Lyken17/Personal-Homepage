@@ -1,0 +1,613 @@
+{
+  "profile": {
+    "name": "Ligeng Zhu",
+    "emailDisplay": "ligeng (dot) zhu [at] gmail.com (dot) com",
+    "emailNote": "(add [plus] notAI to bypass spam filter)",
+    "image": "https://s.gravatar.com/avatar/3b0c57abe05e251bbcea1a00c60b67d2?s=240",
+    "updated": "2026-10-12",
+    "biography": [
+      [
+        {
+          "type": "text",
+          "text": "I am a Researcher at NVIDIA, fortunately working with "
+        },
+        {
+          "type": "link",
+          "text": "Prof. Song Han",
+          "href": "https://songhan.mit.edu/"
+        },
+        {
+          "type": "text",
+          "text": ". Before NVIDIA, I was at MIT (freezing Boston) with "
+        },
+        {
+          "type": "link",
+          "text": "Prof. Song Han",
+          "href": "https://songhan.mit.edu/"
+        },
+        {
+          "type": "text",
+          "text": ", Simon Fraser University (warmful Vancouver) with "
+        },
+        {
+          "type": "link",
+          "text": "Prof. Brian Funt",
+          "href": "https://www2.cs.sfu.ca/~funt/"
+        },
+        {
+          "type": "text",
+          "text": " and "
+        },
+        {
+          "type": "link",
+          "text": "Prof. Ping Tan",
+          "href": "https://www.cs.sfu.ca/~pingtan/"
+        },
+        {
+          "type": "text",
+          "text": ", and Zhejiang University (beautiful Hangzhou)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "text": "I am currently leading "
+        },
+        {
+          "type": "link",
+          "text": "Humanize (flow harness framework)",
+          "href": "https://humanfia.ai/"
+        },
+        {
+          "type": "text",
+          "text": " and "
+        },
+        {
+          "type": "link",
+          "text": "KDA (Kernel Design Agents)",
+          "href": "https://nvlabs.github.io/kda"
+        },
+        {
+          "type": "text",
+          "text": " at NVIDIA. My research focuses on scalable and efficient agents. My mission is five \"ones\": 100T model + 1K TPS + 1M agents + 1M dockers + 1M mins."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "text": "If you find any research interests that we might share, feel free to drop me an email. I am always open to potential collaborations."
+        }
+      ]
+    ],
+    "links": [
+      {
+        "label": "Email",
+        "href": "mailto:ligeng.zhu+homepage@gmail.com"
+      },
+      {
+        "label": "Google Scholar",
+        "href": "https://scholar.google.com/citations?user=y0LVrtgAAAAJ"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/lyken17"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/LigengZhu"
+      },
+      {
+        "label": "Résumé",
+        "href": "assets/Resume_Ligeng_Zhu_EN.pdf"
+      }
+    ]
+  },
+  "news": [
+    {
+      "date": "2026-06",
+      "dateBasis": "Event month confirmed by the user on 2026-10-12.",
+      "content": [
+        {
+          "type": "text",
+          "text": "Presented about token maxing with Humanize at NVIDIA, invited by SGLang ("
+        },
+        {
+          "type": "link",
+          "text": "Slides",
+          "href": "https://lzhu.me/assets/slides/202606-advancing-agent-loops-with-humanize.pdf"
+        },
+        {
+          "type": "text",
+          "text": ", "
+        },
+        {
+          "type": "link",
+          "text": "Talks",
+          "href": "https://www.youtube.com/watch?v=NS9N4ZHtAJU&t=2s"
+        },
+        {
+          "type": "text",
+          "text": ")."
+        }
+      ]
+    },
+    {
+      "date": "2023-11",
+      "dateBasis": "MIT News article published on 2023-11-16.",
+      "dateSource": "https://news.mit.edu/2023/technique-enables-ai-edge-devices-keep-learning-over-time",
+      "content": [
+        {
+          "type": "text",
+          "text": "Our "
+        },
+        {
+          "type": "link",
+          "text": "PockEngine",
+          "href": "https://pockengine.mit.edu/"
+        },
+        {
+          "type": "text",
+          "text": " is repoted by "
+        },
+        {
+          "type": "link",
+          "text": "MIT News",
+          "href": "https://news.mit.edu/2023/technique-enables-ai-edge-devices-keep-learning-over-time"
+        },
+        {
+          "type": "text",
+          "text": "!"
+        }
+      ]
+    },
+    {
+      "date": "2022-12",
+      "dateBasis": "Website posting month; the presentation month is not recorded.",
+      "dateSource": "https://github.com/lyken17/personal-homepage/commit/ff553394b4c4235694df749fb0080b26f37f8f6a",
+      "content": [
+        {
+          "type": "text",
+          "text": "Share our recent tiny training work at Westlake university ("
+        },
+        {
+          "type": "link",
+          "text": "Slides",
+          "href": "assets/slides/tiny_training.pdf"
+        },
+        {
+          "type": "text",
+          "text": ")."
+        }
+      ]
+    },
+    {
+      "date": "2022-11",
+      "dateBasis": "Website posting month; the award notification month is not recorded.",
+      "dateSource": "https://github.com/lyken17/personal-homepage/commit/ddb3cb9",
+      "content": [
+        {
+          "type": "text",
+          "text": "Awarded for "
+        },
+        {
+          "type": "link",
+          "text": "Qualcomm PhD fellowship",
+          "href": "https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america"
+        },
+        {
+          "type": "text",
+          "text": "! Thanks my supervisor and collaboraters!"
+        }
+      ]
+    },
+    {
+      "date": "2022-10",
+      "dateBasis": "MIT homepage spotlight dated 2022-10-04.",
+      "dateSource": "https://web.mit.edu/spotlight/learning-edge/",
+      "content": [
+        {
+          "type": "text",
+          "text": "Our paper on tiny on-device training is highlighted on the "
+        },
+        {
+          "type": "link",
+          "text": "MIT homepage",
+          "href": "http://web.mit.edu/spotlight/learning-edge/"
+        },
+        {
+          "type": "text",
+          "text": "!"
+        }
+      ]
+    },
+    {
+      "date": "2022-09",
+      "dateBasis": "Month of the NeurIPS 2022 author acceptance notifications (2022-09-14).",
+      "dateSource": "https://nips.cc/Conferences/2022/CallForPapers",
+      "content": [
+        {
+          "type": "text",
+          "text": "Check our "
+        },
+        {
+          "type": "link",
+          "text": "tiny on-device training",
+          "href": "https://tinytraining.mit.edu/"
+        },
+        {
+          "type": "text",
+          "text": " is accepted to NeurIPS 2022!"
+        }
+      ]
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "Changye Li",
+      "href": "https://antoinegg1.github.io/",
+      "description": "Undergrad at Peking University → PhD at Tsinghua University"
+    },
+    {
+      "name": "Zheng Du",
+      "href": "https://openreview.net/profile?id=~Zheng_Du3",
+      "description": "PhD at GaTech"
+    },
+    {
+      "name": "Zijian Zhang",
+      "href": "#",
+      "description": "Undergrad at Tsinghua University → PhD at Tsinghua University"
+    },
+    {
+      "name": "Yunhao Fang",
+      "href": "https://seerkfang.github.io/",
+      "description": "Master at UCSD → ByteDance Seed → Physical Intelligence"
+    },
+    {
+      "name": "Guanqi Zhan",
+      "href": "#",
+      "description": "PhD at VGG Oxford → NVIDIA Research"
+    },
+    {
+      "name": "Jiashu Han",
+      "href": "https://scholar.google.com/citations?user=aH5QOEcAAAAJ",
+      "description": "Undergrad at Columbia University → MIT EECS PhD"
+    },
+    {
+      "name": "Lanxiang Hu",
+      "href": "https://snyhlxde1.github.io/",
+      "description": "Master at Columbia University → PhD at UCSD ECE"
+    },
+    {
+      "name": "Yaoyao Ding",
+      "href": "https://www.cs.toronto.edu/~yaoyao/",
+      "description": "Undergrad at Shanghai Jiaotong University → PhD at University of Toronto"
+    }
+  ],
+  "talks": [
+    {
+      "date": "08/2019",
+      "content": [
+        {
+          "type": "text",
+          "text": "AutoML for Efficient Neural Architecture Design ("
+        },
+        {
+          "type": "link",
+          "text": "Slides",
+          "href": "https://static.sched.com/hosted_files/openpowerna19/43/proxyless%40summit.pdf"
+        },
+        {
+          "type": "text",
+          "text": ") "
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "@ OpenPower Summit, Polarr Tech"
+        }
+      ]
+    },
+    {
+      "date": "08/2019",
+      "content": [
+        {
+          "type": "text",
+          "text": "Scalable and Secure Machine Learning for Edge Devices @ Qualcomm"
+        }
+      ]
+    },
+    {
+      "date": "05/2019",
+      "content": [
+        {
+          "type": "text",
+          "text": "Neural Architecture Designs @ UIUC IFP Group ("
+        },
+        {
+          "type": "link",
+          "text": "Slides",
+          "href": "assets/slides/ligeng's presentation@UIUC IFP.pdf"
+        },
+        {
+          "type": "text",
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "date": "12/2018",
+      "content": [
+        {
+          "type": "text",
+          "text": "Proxylessly Specialize CNN for Hardware @ IBM-MIT Watson Events ("
+        },
+        {
+          "type": "link",
+          "text": "Poster",
+          "href": "assets/posters/18-ibm_proxyless.pdf"
+        },
+        {
+          "type": "text",
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "date": "01/2018",
+      "content": [
+        {
+          "type": "text",
+          "text": "Sparsely Aggregated Convolutional Networks ("
+        },
+        {
+          "type": "link",
+          "text": "Slides",
+          "href": "assets/posters/18-SparseNet@ver1.pdf"
+        },
+        {
+          "type": "text",
+          "text": ") "
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "@ UBC Vision Group, Deephi Tech, Sensetime Inc"
+        }
+      ]
+    },
+    {
+      "date": "11/2017",
+      "content": [
+        {
+          "type": "text",
+          "text": "Invited lectures about deep learning ("
+        },
+        {
+          "type": "link",
+          "text": "Lecture1",
+          "href": "https://bit.ly/37UTJOo"
+        },
+        {
+          "type": "text",
+          "text": ", "
+        },
+        {
+          "type": "link",
+          "text": "Lecture2",
+          "href": "https://bit.ly/34HWlxa"
+        },
+        {
+          "type": "text",
+          "text": ") "
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "@ SFU Computer Vision Course (CMPT-412), ZJU Programming Group"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Humanize (PolyArch)",
+      "href": "https://github.com/PolyArch/humanize",
+      "repo": "PolyArch/humanize",
+      "stars": 1492,
+      "description": [
+        {
+          "type": "text",
+          "text": "Turn ideas into implementation with planning, coding, and independent review."
+        }
+      ]
+    },
+    {
+      "name": "Humanize (humanfia)",
+      "href": "https://github.com/humanfia/humanize",
+      "repo": "humanfia/humanize",
+      "stars": 281,
+      "description": [
+        {
+          "type": "text",
+          "text": "An agent workflow system for token maxxing."
+        }
+      ]
+    },
+    {
+      "name": "VILA",
+      "href": "https://github.com/NVlabs/VILA",
+      "repo": "NVlabs/VILA",
+      "stars": "3.9k",
+      "description": [
+        {
+          "type": "text",
+          "text": "Vision-language models for multimodal AI on edge devices, servers, and the cloud."
+        }
+      ]
+    },
+    {
+      "name": "SANA",
+      "href": "https://github.com/NVlabs/Sana",
+      "repo": "NVlabs/Sana",
+      "stars": "9.3k",
+      "description": [
+        {
+          "type": "text",
+          "text": "Efficient high-resolution image generation with linear diffusion transformers."
+        }
+      ]
+    },
+    {
+      "name": "PyTorch-OpCounter",
+      "href": "https://github.com/Lyken17/pytorch-OpCounter",
+      "repo": "Lyken17/pytorch-OpCounter",
+      "stars": 5082,
+      "description": [
+        {
+          "type": "text",
+          "text": "Count the MACs / FLOPs of your PyTorch model."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "Avaliable through PyPi: "
+        },
+        {
+          "type": "code",
+          "text": "pip install thop"
+        }
+      ]
+    },
+    {
+      "name": "ProxylessNAS",
+      "href": "https://github.com/mit-han-lab/ProxylessNAS",
+      "repo": "mit-han-lab/ProxylessNAS",
+      "stars": 1450,
+      "description": [
+        {
+          "type": "text",
+          "text": "Directly and efficiently search neural network architectures."
+        },
+        {
+          "type": "break"
+        },
+        {
+          "type": "text",
+          "text": "Integrated into "
+        },
+        {
+          "type": "link",
+          "text": "PyTorch Hubs",
+          "href": "https://pytorch.org/hub/pytorch_vision_proxylessnas/"
+        },
+        {
+          "type": "text",
+          "text": "!"
+        }
+      ]
+    },
+    {
+      "name": "PyTorch-Memonger",
+      "href": "https://github.com/Lyken17/pytorch-memonger",
+      "repo": "Lyken17/pytorch-memonger",
+      "stars": 603,
+      "description": [
+        {
+          "type": "text",
+          "text": "Sublinear memory optimization for deep learning."
+        }
+      ]
+    },
+    {
+      "name": "Efficient-PyTorch",
+      "href": "https://github.com/Lyken17/Efficient-PyTorch",
+      "repo": "Lyken17/Efficient-PyTorch",
+      "stars": 1104,
+      "description": [
+        {
+          "type": "text",
+          "text": "My best practice of training large dataset using PyTorch."
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "label": "2026",
+      "description": "CVPR, ICLR, NeurIPS, ECCV, ACL"
+    },
+    {
+      "label": "2025",
+      "description": "CVPR, ICLR, ICCV"
+    },
+    {
+      "label": "2024",
+      "description": "CVPR, ICLR, ICML"
+    },
+    {
+      "label": "2023",
+      "description": "NeurIPS, CVPR, ICLR, ICML"
+    },
+    {
+      "label": "2022",
+      "description": "NeurIPS, CVPR"
+    },
+    {
+      "label": "2021",
+      "description": "NeurIPS, ICCV, ICML, ACL"
+    },
+    {
+      "label": "2020",
+      "description": "NeurIPS, CVPR, AAAI"
+    },
+    {
+      "label": "2019",
+      "description": "NeurIPS, ICCV, CVPR"
+    },
+    {
+      "label": "Journals",
+      "description": "T-PAMI, IEEE Micro"
+    }
+  ],
+  "footer": [
+    {
+      "type": "text",
+      "text": "Design and source code from "
+    },
+    {
+      "type": "link",
+      "text": "Jon Barron",
+      "href": "https://jonbarron.info"
+    },
+    {
+      "type": "text",
+      "text": ". Style adapted from "
+    },
+    {
+      "type": "link",
+      "text": "Zhijian Liu",
+      "href": "http://zhijianliu.com"
+    },
+    {
+      "type": "text",
+      "text": ". Vibing and polishing w/ "
+    },
+    {
+      "type": "link",
+      "text": "Codex",
+      "href": "https://openai.com/codex/"
+    },
+    {
+      "type": "text",
+      "text": "."
+    }
+  ]
+}

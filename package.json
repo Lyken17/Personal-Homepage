@@ -1,0 +1,24 @@
+{
+  "name": "ligeng-zhu-homepage",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "dev": "vite --host 127.0.0.1 --port 1313 --strictPort",
+    "build": "node scripts/build.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 1313 --strictPort"
+  },
+  "dependencies": {
+    "vue": "^3.5.43"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.10",
+    "@vue/server-renderer": "^3.5.43",
+    "vite": "^8.3.4",
+    "yaml": "^2.9.1"
+  },
+  "engines": {
+    "node": "^22.18.0 || >=24.12.0"
+  }
+}

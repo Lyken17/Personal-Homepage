@@ -1,0 +1,795 @@
+# All publications, in display order.
+# Use tag: [selected] to show a paper on the homepage; tag: [] keeps it on Full Publications only.
+
+- id: arxiv-2610-13897
+  tag: [selected]
+  title: A Lean Formalization of the Hamilton--Perelman Proof of Thurston's Geometrization Conjecture
+  href: https://arxiv.org/abs/2610.13897
+  authors:
+    - Yuan Liao
+    - Ziyang Qin
+    - Jui-Hui Chung
+    - Ayush Khaitan
+    - Zhengyang Zhang
+    - Hongzhou Lin
+    - Zijian Zhang
+    - Ligeng Zhu
+    - Peng Lu
+    - Bennett Chow
+  venue: arXiv preprint
+  year: 2026
+  notes: []
+  earlierTitle: null
+  authorshipException: Explicitly requested for inclusion on 2026-10-12 despite third-from-last authorship.
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/2610.13897
+    - label: Code
+      href: https://github.com/qinz1yang/differential-geometry
+  media: []
+
+- id: arxiv-2610-13632
+  tag: [selected]
+  title: "Humanize Olympiad Agents: A Multi-Session Workflow for Olympiad Problem Solving with Solve, Review, Wiki, Verify"
+  href: https://arxiv.org/abs/2610.13632
+  authors:
+    - Zhengyang Zhang
+    - Jing Xiong
+    - Hongzhou Lin
+    - Juihui Chung
+    - Zijian Zhang
+    - Song Han
+    - Sihao Liu
+    - Ligeng Zhu
+  venue: arXiv preprint
+  year: 2026
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/2610.13632
+    - label: Code
+      href: https://github.com/humanfia/hoa
+  media: []
+
+- id: arxiv-2610-13494
+  tag: [selected]
+  title: "Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits"
+  href: https://arxiv.org/abs/2610.13494
+  authors:
+    - Changye Li
+    - Zijian Zhang
+    - Muheng Li
+    - Yiduo Pang
+    - Tingjun Wu
+    - Menghan Li
+    - Yitong Liu
+    - Hongkai Guo
+    - Mengchi Chen
+    - Chenyu He
+    - Kaisheng Ma
+    - Wei Xu
+    - Song Han
+    - Sihao Liu
+    - Ligeng Zhu
+  venue: arXiv preprint
+  year: 2026
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/2610.13494
+    - label: Code
+      href: https://github.com/humanfia/hma
+  media: []
+
+- id: publication-1
+  tag: [selected]
+  title: "Humanize: Judgement Engineering for Agentic Coding"
+  href: https://arxiv.org/abs/2610.08900
+  authors:
+    - Sihao Liu
+    - Ligeng Zhu
+    - Zijian Zhang
+    - Dongyun Zou
+    - Zhengyang Zhang
+    - Changye Li
+    - Song Bian
+    - Song Han
+    - Tony Nowatzki
+  venue: arXiv preprint
+  year: 2026
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/2610.08900
+    - label: Code
+      href: https://github.com/PolyArch/humanize
+  media: []
+
+- id: publication-2
+  tag: []
+  title: "EGM: Efficient Visual Grounding Language Models"
+  href: https://link.springer.com/chapter/10.1007/978-3-032-37044-0_17
+  authors:
+    - Guanqi Zhan
+    - Changye Li
+    - Zhijian Liu
+    - Yao Lu
+    - Yi Wu
+    - Song Han
+    - Ligeng Zhu
+  venue: European Conference on Computer Vision (ECCV)
+  year: 2026
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://link.springer.com/chapter/10.1007/978-3-032-37044-0_17
+    - label: arXiv
+      href: https://arxiv.org/abs/2601.13633
+  media: []
+
+- id: publication-3
+  tag: []
+  title: "Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM"
+  href: https://arxiv.org/abs/2604.06832
+  authors:
+    - Chengyue Wu
+    - Shiyi Lan
+    - Yonggan Fu
+    - Sensen Gao
+    - Jin Wang
+    - Jincheng Yu
+    - Jose M Alvarez
+    - Pavlo Molchanov
+    - Ping Luo
+    - Song Han
+    - Ligeng Zhu
+    - Enze Xie
+  venue: arXiv preprint
+  year: 2026
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/2604.06832
+  media: []
+
+- id: publication-4
+  tag: []
+  title: "Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow"
+  href: https://arxiv.org/abs/2601.14243
+  authors:
+    - Haocheng Xi
+    - Charlie Ruan
+    - Peiyuan Liao
+    - Yujun Lin
+    - Han Cai
+    - Yilong Zhao
+    - Shuo Yang
+    - Kurt Keutzer
+    - Song Han
+    - Ligeng Zhu
+  venue: arXiv preprint
+  year: 2026
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/2601.14243
+  media: []
+
+- id: publication-5
+  tag: []
+  title: "FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos"
+  href: https://arxiv.org/abs/2512.10927
+  authors:
+    - Yulu Gan
+    - Ligeng Zhu
+    - Dandan Shan
+    - Baifeng Shi
+    - Hongxu Yin
+    - Boris Ivanovic
+    - Song Han
+    - Trevor Darrell
+    - Jitendra Malik
+    - Marco Pavone
+    - Boyi Li
+  venue: arXiv preprint
+  year: 2025
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/2512.10927
+  media: []
+
+- id: publication-6
+  tag: [selected]
+  title: "NVILA: Efficient Frontier Visual Language Models"
+  href: https://ieeexplore.ieee.org/abstract/document/11094148/
+  authors:
+    - Zhijian Liu
+    - Ligeng Zhu
+    - Baifeng Shi
+    - Zhuoyang Zhang
+    - Yuming Lou
+    - Shang Yang
+    - Haocheng Xi
+    - Shiyi Cao
+    - Yuxian Gu
+    - Dacheng Li
+    - Xiuyu Li
+    - Haotian Tang
+    - Yunhao Fang
+    - Yukang Chen
+    - Cheng-Yu Hsieh
+    - De-An Huang
+    - An-Chieh Cheng
+    - Jinyi Hu
+    - Sifei Liu
+    - Ranjay Krishna
+    - Pavlo Molchanov
+    - Jan Kautz
+    - Hongxu Yin
+    - Song Han
+    - Yao Lu
+  venue: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  year: 2025
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://ieeexplore.ieee.org/abstract/document/11094148/
+    - label: Code
+      href: https://github.com/NVlabs/VILA
+  media: []
+
+- id: publication-7
+  tag: []
+  title: "Wolf: Dense Video Captioning with a World Summarization Framework"
+  href: https://arxiv.org/abs/2407.18908
+  authors:
+    - Boyi Li
+    - Ligeng Zhu
+    - Ran Tian
+    - Shuhan Tan
+    - Yuxiao Chen
+    - Yao Lu
+    - Yin Cui
+    - Sushant Veer
+    - Max Ehrlich
+    - Jonah Philion
+    - Xinshuo Weng
+    - Fuzhao Xue
+    - Linxi Fan
+    - Yuke Zhu
+    - Jan Kautz
+    - Andrew Tao
+    - Ming-Yu Liu
+    - Sanja Fidler
+    - Boris Ivanovic
+    - Trevor Darrell
+    - Jitendra Malik
+    - Song Han
+    - Marco Pavone
+  venue: arXiv preprint
+  year: 2024
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/2407.18908
+  media: []
+
+- id: publication-8
+  tag: []
+  title: "VILA²: VILA Augmented VILA"
+  href: https://arxiv.org/abs/2407.17453
+  authors:
+    - Yunhao Fang
+    - Ligeng Zhu
+    - Yao Lu
+    - Yan Wang
+    - Pavlo Molchanov
+    - Jan Kautz
+    - Jang Hyun Cho
+    - Marco Pavone
+    - Song Han
+    - Hongxu Yin
+  venue: arXiv preprint
+  year: 2024
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/2407.17453
+  media: []
+
+- id: publication-9
+  tag: []
+  title: "PockEngine: Sparse and Efficient Fine-tuning in a Pocket"
+  href: https://dl.acm.org/doi/abs/10.1145/3613424.3614307
+  authors:
+    - Ligeng Zhu
+    - Lanxiang Hu
+    - Ji Lin
+    - Wei-Ming Chen
+    - Wei-Chen Wang
+    - Chuang Gan
+    - Song Han
+  venue: 56th IEEE/ACM International Symposium on Microarchitecture (MICRO-56)
+  year: 2023
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://dl.acm.org/doi/abs/10.1145/3613424.3614307
+    - label: arXiv
+      href: https://arxiv.org/abs/2310.17752
+    - label: Website
+      href: https://pockengine.mit.edu/
+    - label: Slides
+      href: https://github.com/Lyken17/micro23/blob/master/Micro23-PockEngine-Slides.pdf
+    - label: YouTube
+      href: https://youtu.be/-7r-TJ5I1NA
+  media:
+    - label: MIT News
+      href: https://news.mit.edu/2023/technique-enables-ai-edge-devices-keep-learning-over-time
+    - label: Zhihu
+      href: https://www.zhihu.com/question/565161486/answer/2779305863
+
+- id: publication-10
+  tag: []
+  title: "Tiny Machine Learning: Progress and Futures"
+  href: https://ieeexplore.ieee.org/abstract/document/10284551/
+  authors:
+    - Ji Lin
+    - Ligeng Zhu
+    - Wei-Ming Chen
+    - Wei-Chen Wang
+    - Song Han
+  venue: IEEE Circuits and Systems Magazine
+  year: 2023
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://ieeexplore.ieee.org/abstract/document/10284551/
+    - label: arXiv
+      href: https://arxiv.org/abs/2403.19076
+  media: []
+
+- id: publication-11
+  tag: []
+  title: "LIFT: Efficient Layer-wise Finetuning for Large Language Models"
+  href: https://openreview.net/forum?id=u0INlprg3U
+  authors:
+    - Ligeng Zhu
+    - Lanxiang Hu
+    - Ji Lin
+    - Song Han
+  venue: OpenReview manuscript
+  year: 2023
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://openreview.net/forum?id=u0INlprg3U
+  media: []
+
+- id: publication-12
+  tag: []
+  title: On-Device Training Under 256KB Memory
+  href: https://proceedings.neurips.cc/paper_files/paper/2022/hash/90c56c77c6df45fc8e556a096b7a2b2e-Abstract-Conference.html
+  authors:
+    - Ji Lin*
+    - Ligeng Zhu*
+    - Wei-Ming Chen
+    - Wei-Chen Wang
+    - Chuang Gan
+    - Song Han
+  venue: Advances in Neural Information Processing Systems (NeurIPS)
+  year: 2022
+  notes:
+    - (* denotes equal contribution)
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://proceedings.neurips.cc/paper_files/paper/2022/hash/90c56c77c6df45fc8e556a096b7a2b2e-Abstract-Conference.html
+    - label: Website
+      href: https://tinytraining.mit.edu/
+    - label: Slides
+      href: https://tinytraining.mit.edu/assets/on-device-training.pdf
+    - label: YouTube
+      href: https://youtu.be/XaDCO8YtmBw
+    - label: GitHub
+      href: https://github.com/mit-han-lab/tiny-training
+  media:
+    - label: MIT Homepage
+      href: http://web.mit.edu/spotlight/learning-edge/
+    - label: Zhihu
+      href: https://www.zhihu.com/question/565161486/answer/2779305863
+
+- id: publication-13
+  tag: []
+  title: Laplacian of Logarithm as Illuminant-Invariant Input Space
+  href: https://library.imaging.org/cic/articles/30/1/32
+  authors:
+    - Brian Funt
+    - Ligeng Zhu
+  venue: Color and Imaging Conference (CIC)
+  year: 2022
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://library.imaging.org/cic/articles/30/1/32
+  media: []
+
+- id: publication-14
+  tag: []
+  title: "Enable Deep Learning on Mobile Devices: Methods, Systems, and Applications"
+  href: https://dl.acm.org/doi/abs/10.1145/3486618
+  authors:
+    - Han Cai
+    - Ji Lin
+    - Yujun Lin
+    - Zhijian Liu
+    - Haotian Tang
+    - Hanrui Wang
+    - Ligeng Zhu
+    - Song Han
+  venue: ACM Transactions on Design Automation of Electronic Systems (TODAES)
+  year: 2022
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://dl.acm.org/doi/abs/10.1145/3486618
+  media: []
+
+- id: publication-15
+  tag: []
+  title: "Delayed Gradient Averaging: Tolerate the Communication Latency for Federated Learning"
+  href: https://proceedings.neurips.cc/paper_files/paper/2021/hash/fc03d48253286a798f5116ec00e99b2b-Abstract.html
+  authors:
+    - Ligeng Zhu
+    - Hongzhou Lin
+    - Yao Lu
+    - Yujun Lin
+    - Song Han
+  venue: Advances in Neural Information Processing Systems (NeurIPS)
+  year: 2021
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://proceedings.neurips.cc/paper_files/paper/2021/hash/fc03d48253286a798f5116ec00e99b2b-Abstract.html
+    - label: Webpage
+      href: http://dga.hanlab.ai/
+  media: []
+
+- id: publication-16
+  tag: []
+  title: "IOS: Inter-Operator Scheduler for CNN Acceleration"
+  href: https://proceedings.mlsys.org/paper_files/paper/2021/hash/1f8053a67ec8e0b57455713cefdd8218-Abstract.html
+  authors:
+    - Yaoyao Ding
+    - Ligeng Zhu
+    - Zhihao Jia
+    - Gennady Pekhimenko
+    - Song Han
+  venue: Conference on Machine Learning and Systems (MLSys)
+  year: 2021
+  notes: []
+  earlierTitle: Accelerate DNN Inference By Inter-Operator Parallelization
+  links:
+    - label: Paper
+      href: https://proceedings.mlsys.org/paper_files/paper/2021/hash/1f8053a67ec8e0b57455713cefdd8218-Abstract.html
+    - label: Webpage
+      href: http://www.yaoyaoding.com/ios/
+    - label: Code
+      href: https://github.com/mit-han-lab/inter-operator-scheduler
+    - label: YouTube
+      href: https://www.youtube.com/watch?v=cS5I6CYMU2E
+    - label: BiliBili
+      href: https://www.bilibili.com/video/BV1w54y187G1
+  media: []
+
+- id: publication-17
+  tag: []
+  title: "DataMix: Efficient Privacy-Preserving Edge-Cloud Inference"
+  href: https://link.springer.com/chapter/10.1007/978-3-030-58621-8_34
+  authors:
+    - Zhijian Liu
+    - Zhanghao Wu
+    - Chuang Gan
+    - Ligeng Zhu
+    - Song Han
+  venue: European Conference on Computer Vision (ECCV)
+  year: 2020
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://link.springer.com/chapter/10.1007/978-3-030-58621-8_34
+  media: []
+
+- id: publication-18
+  tag: []
+  title: "TinyTL: Reduce Memory, Not Parameters for Efficient On-Device Learning"
+  href: https://proceedings.neurips.cc/paper_files/paper/2020/hash/81f7acabd411274fcf65ce2070ed568a-Abstract.html
+  authors:
+    - Han Cai
+    - Chuang Gan
+    - Ligeng Zhu
+    - Song Han
+  venue: Advances in Neural Information Processing Systems (NeurIPS)
+  year: 2020
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://proceedings.neurips.cc/paper_files/paper/2020/hash/81f7acabd411274fcf65ce2070ed568a-Abstract.html
+  media: []
+
+- id: publication-19
+  tag: []
+  title: AutoML for Architecting Efficient and Specialized Neural Networks
+  href: https://ieeexplore.ieee.org/abstract/document/8897011/
+  authors:
+    - Han Cai
+    - Ji Lin
+    - Yujun Lin
+    - Zhijian Liu
+    - Kuan Wang
+    - Tianzhe Wang
+    - Ligeng Zhu
+    - Song Han
+  venue: IEEE Micro
+  year: 2019
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://ieeexplore.ieee.org/abstract/document/8897011/
+    - label: arXiv
+      href: https://arxiv.org/abs/1904.10616
+    - label: Slides
+      href: https://www.dropbox.com/s/qipuwtjktnkhhr0/CVPR%2719%20Song%20Han.pdf?dl=0
+  media: []
+
+- id: publication-20
+  tag: []
+  title: Deep Leakage from Gradients
+  href: https://proceedings.neurips.cc/paper_files/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html
+  authors:
+    - Ligeng Zhu
+    - Zhijian Liu
+    - Song Han
+  venue: Advances in Neural Information Processing Systems (NeurIPS)
+  year: 2019
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://proceedings.neurips.cc/paper_files/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html
+    - label: Poster
+      href: assets/posters/19-nips-dlg.pdf
+    - label: Code
+      href: https://gist.github.com/Lyken17/91b81526a8245a028d4f85ccc9191884
+  media:
+    - label: Zhihu
+      href: https://www.zhihu.com/question/345365328/answer/930250128
+
+- id: publication-21
+  tag: []
+  title: Distributed Training across the World
+  href: https://openreview.net/forum?id=SJeuueSYDH
+  authors:
+    - Ligeng Zhu
+    - Yao Lu
+    - Yujun Lin
+    - Song Han
+  venue: NeurIPS Workshop on Systems for ML (MLSys)
+  year: 2019
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://openreview.net/forum?id=SJeuueSYDH
+    - label: Poster
+      href: assets/posters/19-nips-dts.pdf
+  media: []
+
+- id: publication-22
+  tag: []
+  title: "ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware"
+  href: https://arxiv.org/abs/1812.00332
+  authors:
+    - Han Cai
+    - Ligeng Zhu
+    - Song Han
+  venue: International Conference on Learning Representations (ICLR)
+  year: 2019
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/1812.00332
+    - label: Project Page
+      href: https://hanlab.mit.edu/projects/proxylessNAS
+    - label: GitHub
+      href: https://github.com/MIT-HAN-LAB/ProxylessNAS
+    - label: Poster
+      href: assets/posters/19-iclr-poster.pdf
+  media:
+    - label: MIT News
+      href: http://news.mit.edu/2019/convolutional-neural-network-automation-0321
+    - label: IEEE Spectrum
+      href: https://spectrum.ieee.org/tech-talk/computing/networks/using-ai-to-make-better-ai
+    - label: Zhihu
+      href: https://www.zhihu.com/question/296404213/answer/547163236
+    - label: 机器之心
+      href: https://www.jiqizhixin.com/articles/2018-12-07-8
+
+- id: publication-23
+  tag: []
+  title: Small Object Sensitive Segmentation of Urban Street Scene With Spatial Adjacency Between Object Classes
+  href: https://ieeexplore.ieee.org/abstract/document/8581453/
+  authors:
+    - Dazhou Guo*
+    - Ligeng Zhu*
+    - Yuhang Lu
+    - Hongkai Yu
+    - Song Wang
+  venue: IEEE Transactions on Image Processing (TIP)
+  year: 2018
+  notes:
+    - (* denotes equal contribution)
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://ieeexplore.ieee.org/abstract/document/8581453/
+  media: []
+
+- id: publication-24
+  tag: []
+  title: Does Colour Really Matter? Evaluation via Object Classification
+  href: https://library.imaging.org/cic/articles/26/1/art00044
+  authors:
+    - Brian Funt
+    - Ligeng Zhu
+  venue: Color and Imaging Conference (CIC)
+  year: 2018
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://library.imaging.org/cic/articles/26/1/art00044
+    - label: Poster
+      href: assets/posters/18-cic-poster.pdf
+  media: []
+
+- id: publication-25
+  tag: []
+  title: Sparsely Aggregated Convolutional Networks
+  href: https://link.springer.com/chapter/10.1007/978-3-030-01258-8_12
+  authors:
+    - Ligeng Zhu
+    - Ruizhi Deng
+    - Michael Maire
+    - Zhiwei Deng
+    - Greg Mori
+    - Ping Tan
+  venue: European Conference on Computer Vision (ECCV)
+  year: 2018
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://link.springer.com/chapter/10.1007/978-3-030-01258-8_12
+    - label: arXiv
+      href: https://arxiv.org/abs/1801.05895
+    - label: Code
+      href: https://github.com/lyken17/sparsenet
+    - label: Poster
+      href: assets/posters/18-eccv-poster.pdf
+  media: []
+
+- id: publication-26
+  tag: []
+  title: Colourization of Dichromatic Images
+  href: https://summit.sfu.ca/item/18304
+  authors:
+    - Brian Funt
+    - Ligeng Zhu
+  venue: Simon Fraser University manuscript
+  year: 2018
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://summit.sfu.ca/item/18304
+  media: []
+
+- id: publication-27
+  tag: []
+  title: Colorizing Color Images
+  href: https://library.imaging.org/ei/articles/30/14/art00020
+  authors:
+    - Ligeng Zhu
+    - Brian Funt
+  venue: Human Vision and Electronic Imaging (HVEI)
+  year: 2018
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://library.imaging.org/ei/articles/30/14/art00020
+    - label: Code
+      href: https://github.com/Lyken17/Colorize-Color-Images
+    - label: Poster
+      href: assets/posters/18-hvei-poster.pdf
+  media: []
+
+- id: publication-28
+  tag: []
+  title: Learning to Forecast Videos of Human Activity with Multi-granularity Models and Adaptive Rendering
+  href: https://arxiv.org/abs/1712.01955
+  authors:
+    - Mengyao Zhai
+    - Jiacheng Chen
+    - Ruizhi Deng
+    - Lei Chen
+    - Ligeng Zhu
+    - Greg Mori
+  venue: arXiv preprint
+  year: 2017
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/1712.01955
+  media: []
+
+- id: publication-29
+  tag: []
+  title: Attribute Recognition from Adaptive Parts
+  href: https://arxiv.org/abs/1607.01437
+  authors:
+    - Luwei Yang
+    - Ligeng Zhu
+    - Yichen Wei
+    - Shuang Liang
+    - Ping Tan
+  venue: British Machine Vision Conference (BMVC)
+  year: 2016
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://arxiv.org/abs/1607.01437
+    - label: Poster
+      href: assets/posters/16-bmvc-poster.pdf
+  media: []
+
+- id: publication-30
+  tag: []
+  title: "ZEST: Zeroshot Sparse Fine-tuning"
+  href: https://openreview.net/forum?id=f7t7AOseAa
+  authors:
+    - Jiashu Han
+    - Ligeng Zhu
+    - Song Han
+  venue: OpenReview manuscript
+  year: null
+  notes: []
+  earlierTitle: null
+  links:
+    - label: Paper
+      href: https://openreview.net/forum?id=f7t7AOseAa
+  media: []
