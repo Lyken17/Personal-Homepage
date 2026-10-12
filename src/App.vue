@@ -52,7 +52,8 @@ onMounted(async () => {
           <p v-if="index === 1 && site.profile.mission" class="mission-line"><strong>{{ site.profile.mission }}</strong></p>
         </template>
         <ResourceLinks :links="site.profile.links" />
-        <p class="updated">Latest update on <time :datetime="site.profile.updated">{{ updatedLabel }}</time><template v-if="site.profile.updateNote"> | {{ site.profile.updateNote }}</template><template v-else>.</template></p>
+        <p v-if="site.profile.updateNote" class="updated update-note">{{ site.profile.updateNote }}</p>
+        <p class="updated">Latest update on <time :datetime="site.profile.updated">{{ updatedLabel }}</time></p>
       </div>
     </section>
 
